@@ -1,1 +1,2 @@
-# Scientific-Calculator
+# Scientific Calculator
+The Scientific Calculator project is an advanced web application developed using JavaScript, HTML, and CSS. It offers a wide range of mathematical functions, making it suitable for complex calculations. With its comprehensive set of features, users can perform operations such as trigonometry, logarithms, exponentiation, and more. The calculator's user-friendly interface provides an intuitive experience for inputting and retrieving results. The project's responsive design ensures accessibility across different devices. Leveraging JavaScript, HTML, and CSS, the Scientific Calculator project delivers a powerful tool for performing complex mathematical calculations with ease.
